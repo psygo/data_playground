@@ -1,5 +1,4 @@
-SELECT
-  candidate_id
+SELECT candidate_id, STRING_AGG(skill, ', ') AS skills
 FROM candidates
 WHERE skill IN ('Python', 'Tableau', 'PostgreSQL')
 GROUP BY candidate_id
