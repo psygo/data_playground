@@ -4,7 +4,7 @@ A place to study data.
 
 ## Datasets
 
-Storing whole datasets on Github is possible, but it should typically be avoided. Git and Github do offer solutions for this type of problem, namely *Git LFS*, but for now, the original versions of the files used in this project will be stored on a Google Drive [here](https://drive.google.com/drive/folders/1nvdWLXSu_GCRibgxPthnSrWt97sHM3N8?usp=drive_link).
+Storing whole datasets on Github is possible, but it should typically be avoided. Git and Github do offer solutions for this type of problem, namely _Git LFS_, but for now, the original versions of the files used in this project will be stored on a [Google Drive folder](https://drive.google.com/drive/folders/1nvdWLXSu_GCRibgxPthnSrWt97sHM3N8?usp=drive_link).
 
 ### References
 
