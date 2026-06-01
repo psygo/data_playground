@@ -17,3 +17,7 @@ Storing whole datasets on Github is possible, but it should typically be avoided
   - [Lichess](https://database.lichess.org/?utm_source=chatgpt.com#standard_games)
 - Sports
   - [Biggest NBA dataset on Kaggle](https://www.kaggle.com/datasets/wyattowalsh/basketball)
+
+## SQL Practice and Study
+
+- [Data Lemur](https://datalemur.com/)
